@@ -10,7 +10,7 @@ group :assets do
   gem 'uglifier',     '~> 1.3'
 end
 
-gem 'ember-rails'              
+gem 'ember-rails'
 gem 'emblem-rails'
 
-gem 'unicorn'                  
+gem 'unicorn'
