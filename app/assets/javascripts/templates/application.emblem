@@ -1,0 +1,4 @@
+ul
+  li data-foo=bar: a quux
+  li data-foo='bar': a quux
+  li data-foo=bar href='#': a quux
